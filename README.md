@@ -37,21 +37,25 @@ Public repositories are unsafe in terms of the information exposure
 Private repositories limits your potential contibutors and collaborators 
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
-1. Setup Git and GitHub where you download and install Git and create GitHub account if you have not yet created one.
-2. When your Git and GitHub have been setup, next step is to configure git
-3. Use terminal or command prompt to setup Git username and email address.
+Setup Git and GitHub : download and install Git and create GitHub account if you have not yet created one.
+When your Git and GitHub have been setup, next step is to configure git
+Use terminal or command prompt to setup Git username and email address.
  Using Git bash
     the following code to configure username: git --global user.name "User Name"
-   and the following cide to configure email address: git --global user.email         "email adress"
-The next step it to create a repository on GitHub
-Clone the Repository to the local storage by coping the URL 
+   and the following code to configure email address: git --global user.email         "email adress"
+Then create a repository on GitHub
+Clone the Repository to the local computer storage by coping the URL
+Add files to the newly created repository
+Stage and commit the changes
+Verify the commit by checking on GitHub
 
-
-
-
-   
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+Branching allowys you to work on various versions or features of a project at the same time without affecting the main repository. 
+A branch is 
+
+
+
 
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
