@@ -41,8 +41,8 @@ Setup Git and GitHub : download and install Git and create GitHub account if you
 When your Git and GitHub have been setup, next step is to configure git
 Use terminal or command prompt to setup Git username and email address.
  Using Git bash
-    the following code to configure username: git --global user.name "User Name"
-   and the following code to configure email address: git --global user.email         "email adress"
+  the following code to configure username: git --global user.name "User Name"
+  and the following code to configure email address: git --global user.email         "email adress"
 Then create a repository on GitHub
 Clone the Repository to the local computer storage by coping the URL
 Add files to the newly created repository
